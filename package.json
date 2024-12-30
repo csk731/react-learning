@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is a react learning repo",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csk731/react-learning.git"
+  },
+  "keywords": [
+    "react",
+    "learning"
+  ],
+  "author": "chaitanya allu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csk731/react-learning/issues"
+  },
+  "homepage": "https://github.com/csk731/react-learning#readme"
+}
